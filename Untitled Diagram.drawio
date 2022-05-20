@@ -1,1 +1,117 @@
-<mxfile host="app.diagrams.net" modified="2022-05-20T07:08:12.515Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="pxpsK6bx1jf_MyJDgYTn" version="18.0.8" type="github"><diagram id="6I0OCvxSQrVGMHxT2VVA" name="Page-1">7Vtbc5s4FP41fmyGm7g85ubdmW53MuPMbPuogGzYYkSFfNtfv5KRbECKS2Mw1En8EHQQIH3f+Y6OhJjY98vtHwTm8RccoXRiGdF2Yj9MLMvyTZf945ZdaTHtwC8tC5JEwnY0zJL/kDAawrpKIlTUKlKMU5rkdWOIswyFtGaDhOBNvdocp/Wn5nCBFMMshKlq/SeJaFxafWAc7X+iZBHLJ5uGOLOEsrIwFDGM8KZish8n9j3BmJZHy+09Sjl6EpfyuukrZw8NIyijbS6IPkcz+PXR8WeLp5c4hMuZ9fmTLRq3hulK9Fi0lu4kBJs4oWiWw5CXN4zniX0X02XKSiY7LCjB39E9TjFhlgxn6GCUiPFq8yRNZaWJZc8B/3E7zqig3XRYWbQHEYq2r/bUPODHPA/hJaJkx6rICwKnvEQ4neuJXm6ODJqGB0pjXKHPluxB4TaLw82PyLIDAe6vAG2+A6CB0RZo0+0NaOsagfbrQNt2a6Cd3oC2FaD/ZvFfAbsCrA73Boq30+n0dsrxjmHOqy23Cz603EASxgkLqsi+gXmeJiGkCc5YRVZ63u2rZvzxzMBrClPxY8VA1pDC6WD3SG/TZMHu8kBx3g1VdmDUqPJNoFDl+IaOKdAXU45CCorYKCeKKH3Bm8ej4Y7gVRahSJC2P82OJWJNrUByANbg1bPolo+7rPyS4vB7aZomvMkPokK1/r+I0p0wwBXFzIQJjfECZzD9C3NaNKJknuIb/KehNoJFfGh92XPe3dN8MnTwioToFIyCH9bjBaInKjqG3kMISpnTrust6Z5toAmAbko5MsmaHS7oHpfS9EKaFvbQSr3ZrqBoqbnBDM/phmtLe9kFogBFIZPTHf8nxb4rZpt+ArDj1AOw72oCsKNRdX/jnPsh6i5E7bUVNRhU1F6Xoj5xaZHDTK99dovqyTeEhPcQKFx/dIHCHyZQ4Bxll48TjCay+8qfdmMBWf7WfdyQFP48bgSDxo3gg3zZmW1CxTkXiPK3fdkwPFF+QiRhwCMiWjyIw3hnOsz+UkYE3FUq5DjJaFG58xM3VBIcOU1urJkcna+849EVD017u3c66urTDJF1El5iFlmIJ/WTL0rhSTh9zTAANMMA6GsYcEwF0yuOBF0Kt+20D9hDCDcw6p7mGZcQrrqmdsXOVBlWTowqnhvURxVLjjJ9jiqtnfOVeNWvc/oN53TBJZzT/nDOpnM6rj9i5zw7R36Tc7pBwzmtSzjnQGuxAznnMecGZt0BDWtMDjhIzg38IaKjujx8JTm3640u5x5ojfb3z7nbrsoC50zhnsevuir7BUerVJWS1ESIlznO9njcQfHqMWRFHv2aggqCOftjdiajKGGVGm+ke5CQbdUlBEyNhHzNa2a/Nwm9q9XLLiUUtJXQoC82ZDOvRkJAvqoZjYTk8PYhoV+UEJAbDn8qIXdICclmXo2EPNe8AWMT0bta8epSRHZbEZ07BzuPX3U32+8tosAdWyoHHAXi6SoL99v4zpt6cnCD4PTU87VNg3PWhEl90+BBu72k2I7bCG62bouAbp7q9bVBEKhrAgzdFL5gAgemJ9y3Y9JyV2cX+RtwxsePq/BzW8HLMh7XvHfDsYTWIg5eSkVeY61nBBypawFPBIeoKAbkJWctuCQtgT/C4OYrxDyjMM4Ywoudwg3rO21mZ5qvAaocCZOSAzS3mC+TKNrnhlrSe/howGqkAJ6cKVS4sHR70azeUgB1tl8LZO+IDOAMTYar7r65WxVJpgtZV8UEaIwd8jXMcEz0uDentnF6hBu7J91NNV0xRx/5WwPZzFNfqPWQIoQUk34UZZkNQQF1zNcN+UFfQ76rTuafE6qZy4uw1jaWVVipwGg5sixubJ6Kcko87IAACe5hC5gm5Qo0BLzh20BWPH6yXL6TPn75bT/+Dw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-20T07:36:59.500Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="UiAQP4SwgOWBF8oEogIb" version="18.0.8" type="github">
+  <diagram id="6I0OCvxSQrVGMHxT2VVA" name="Page-1">
+    <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFFFFF" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dKdSaXE48SgPbhcamS2K-30" value="" style="whiteSpace=wrap;html=1;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;fontSize=14;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="190" y="860" width="1080" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="dKdSaXE48SgPbhcamS2K-31" value="" style="whiteSpace=wrap;html=1;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;fontSize=14;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="195" y="717" width="1075" height="97" as="geometry" />
+        </mxCell>
+        <mxCell id="dKdSaXE48SgPbhcamS2K-32" value="" style="whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#f5f5f5;fontSize=14;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="184" y="330" width="1075" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="dKdSaXE48SgPbhcamS2K-33" value="计算" style="html=1;whiteSpace=wrap;fillColor=#3399FF;shape=mxgraph.archimate3.application;appType=node;archiType=square;fontSize=14;verticalAlign=top;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="318" y="900" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dKdSaXE48SgPbhcamS2K-46" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;startSize=10;endArrow=open;endFill=0;endSize=10;jettySize=auto;orthogonalLoop=1;strokeColor=#808080;fontSize=14;" parent="1" target="dKdSaXE48SgPbhcamS2K-54" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="421.5" y="510" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dKdSaXE48SgPbhcamS2K-48" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;startSize=10;endArrow=open;endFill=0;endSize=10;jettySize=auto;orthogonalLoop=1;strokeColor=#808080;fontSize=14;" parent="1" target="dKdSaXE48SgPbhcamS2K-55" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="629.5" y="510" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dKdSaXE48SgPbhcamS2K-50" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;startSize=10;endArrow=open;endFill=0;endSize=10;jettySize=auto;orthogonalLoop=1;strokeColor=#808080;fontSize=14;" parent="1" target="dKdSaXE48SgPbhcamS2K-56" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="854" y="510" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dKdSaXE48SgPbhcamS2K-52" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;startSize=10;endArrow=open;endFill=0;endSize=10;jettySize=auto;orthogonalLoop=1;strokeColor=#808080;fontSize=14;" parent="1" target="dKdSaXE48SgPbhcamS2K-57" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1061.5" y="510" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dKdSaXE48SgPbhcamS2K-54" value="Function" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;fontSize=14;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="346.5" y="360" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="dKdSaXE48SgPbhcamS2K-55" value="Collaboration" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=collab;archiType=square;fontSize=14;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="554.5" y="360" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="dKdSaXE48SgPbhcamS2K-56" value="Application Event" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=event;archiType=rounded;fontSize=14;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="779" y="360" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="dKdSaXE48SgPbhcamS2K-57" value="Process" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=proc;archiType=rounded;fontSize=14;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="986.5" y="360" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="dKdSaXE48SgPbhcamS2K-58" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;资源层&lt;/font&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=14;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="170" y="905" width="123" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dKdSaXE48SgPbhcamS2K-61" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;dashed=1;startSize=10;endArrow=block;endFill=0;endSize=10;jettySize=auto;orthogonalLoop=1;strokeColor=#808080;fontSize=14;" parent="1" source="dKdSaXE48SgPbhcamS2K-62" target="dKdSaXE48SgPbhcamS2K-54" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dKdSaXE48SgPbhcamS2K-62" value="" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.actor;fontSize=14;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="219" y="350" width="50" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="Xw9xKVzSc36Ef-3tRg2Z-1" value="公有云" style="html=1;whiteSpace=wrap;fillColor=#3399FF;shape=mxgraph.archimate3.application;appType=node;archiType=square;fontSize=14;verticalAlign=top;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="521" y="900" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xw9xKVzSc36Ef-3tRg2Z-2" value="私有云" style="html=1;whiteSpace=wrap;fillColor=#3399FF;shape=mxgraph.archimate3.application;appType=node;archiType=square;fontSize=14;verticalAlign=top;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="725" y="900" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xw9xKVzSc36Ef-3tRg2Z-3" value="网络" style="html=1;whiteSpace=wrap;fillColor=#3399FF;shape=mxgraph.archimate3.application;appType=node;archiType=square;fontSize=14;verticalAlign=top;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="928" y="900" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xw9xKVzSc36Ef-3tRg2Z-4" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;存储层&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=14;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="755" width="123" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Xw9xKVzSc36Ef-3tRg2Z-5" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;数据库&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="325" y="762" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xw9xKVzSc36Ef-3tRg2Z-6" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;对象存储&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="477" y="764.5" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xw9xKVzSc36Ef-3tRg2Z-7" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;分布式缓存&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="629" y="764.5" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xw9xKVzSc36Ef-3tRg2Z-8" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;图片存储&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="781" y="764.5" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xw9xKVzSc36Ef-3tRg2Z-9" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;视频存储&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="933" y="764.5" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xw9xKVzSc36Ef-3tRg2Z-10" value="" style="whiteSpace=wrap;html=1;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;fontSize=14;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="192.5" y="567" width="1075" height="97" as="geometry" />
+        </mxCell>
+        <mxCell id="Xw9xKVzSc36Ef-3tRg2Z-11" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;数据层&lt;/font&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=14;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="605.5" width="123" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Xw9xKVzSc36Ef-3tRg2Z-12" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;产品数据&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D %222%22%20value%3D%22%26lt%3Bfont%20style%3D%26quot%3Bvertical-align%3A%20inherit%3B%26quot%3B%26gt%3B%26lt%3Bfont%20style%3D%26quot%3Bvertical -align%3A%20inherit%3B%26quot%3B%26gt%3B%E6%95%B0%E6%8D%AE%E5%BA%93%26lt%3B%2Ffont%26gt%3B%26lt%3B%2Ffont %26gt%3B%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfillColor%3D%233399FF%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E %3CmxGeometry%20x%3D%22325%22%20y%3D%22762%22%20width%3D%22120%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell %3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="318" y="599" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xw9xKVzSc36Ef-3tRg2Z-13" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;产品数据&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D %222%22%20value%3D%22%26lt%3Bfont%20style%3D%26quot%3Bvertical-align%3A%20inherit%3B%26quot%3B%26gt%3B%26lt%3Bfont%20style%3D%26quot%3Bvertical -align%3A%20inherit%3B%26quot%3B%26gt%3B%E6%95%B0%E6%8D%AE%E5%BA%93%26lt%3B%2Ffont%26gt%3B%26lt%3B%2Ffont %26gt%3B%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfillColor%3D%233399FF%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E %3CmxGeometry%20x%3D%22325%22%20y%3D%22762%22%20width%3D%22120%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell %3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="328" y="609" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xw9xKVzSc36Ef-3tRg2Z-14" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;产品数据&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D %222%22%20value%3D%22%26lt%3Bfont%20style%3D%26quot%3Bvertical-align%3A%20inherit%3B%26quot%3B%26gt%3B%26lt%3Bfont%20style%3D%26quot%3Bvertical -align%3A%20inherit%3B%26quot%3B%26gt%3B%E6%95%B0%E6%8D%AE%E5%BA%93%26lt%3B%2Ffont%26gt%3B%26lt%3B%2Ffont %26gt%3B%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfillColor%3D%233399FF%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E %3CmxGeometry%20x%3D%22325%22%20y%3D%22762%22%20width%3D%22120%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell %3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="338" y="619" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xw9xKVzSc36Ef-3tRg2Z-15" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;产品数据&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D %222%22%20value%3D%22%26lt%3Bfont%20style%3D%26quot%3Bvertical-align%3A%20inherit%3B%26quot%3B%26gt%3B%26lt%3Bfont%20style%3D%26quot%3Bvertical -align%3A%20inherit%3B%26quot%3B%26gt%3B%E6%95%B0%E6%8D%AE%E5%BA%93%26lt%3B%2Ffont%26gt%3B%26lt%3B%2Ffont %26gt%3B%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfillColor%3D%233399FF%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E %3CmxGeometry%20x%3D%22325%22%20y%3D%22762%22%20width%3D%22120%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell %3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="348" y="629" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xw9xKVzSc36Ef-3tRg2Z-16" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;产品数据&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D %222%22%20value%3D%22%26lt%3Bfont%20style%3D%26quot%3Bvertical-align%3A%20inherit%3B%26quot%3B%26gt%3B%26lt%3Bfont%20style%3D%26quot%3Bvertical -align%3A%20inherit%3B%26quot%3B%26gt%3B%E6%95%B0%E6%8D%AE%E5%BA%93%26lt%3B%2Ffont%26gt%3B%26lt%3B%2Ffont %26gt%3B%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfillColor%3D%233399FF%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E %3CmxGeometry%20x%3D%22325%22%20y%3D%22762%22%20width%3D%22120%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell %3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="358" y="639" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xw9xKVzSc36Ef-3tRg2Z-17" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;销售数据&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="950" y="605.5" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xw9xKVzSc36Ef-3tRg2Z-18" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;其它数据&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="605.5" width="120" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
